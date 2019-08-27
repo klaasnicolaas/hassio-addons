@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.2
+
+- Bump deCONZ to 2.05.67
+
 ## 3.1
 
 - Improves VNC desktop name
